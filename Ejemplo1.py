@@ -4,3 +4,4 @@ if(edad >= 18):
 else:
     print("Es menor de edad.")
 print("Adios...")
+#Se realizaron cambios
